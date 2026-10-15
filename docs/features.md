@@ -28,16 +28,16 @@ Allows users to filter transactions based on transaction type, minimum amount, o
 Allows users to arrange transactions by date, amount, or transaction ID.
 
 ### 10. Generate Bank Statement
-Generates an organized bank statement containing transaction details, credits, debits, and balance information for a selected date range.
+Generates an organized bank statement for a selected date range, including transaction details, total credits, total debits, net movement, and transaction count.
 
 ### 11. View Financial Summary
-Displays a summary of total income, total expenses, deposits, withdrawals, and other relevant financial information.
+Displays a summary of total income, total expenses, total deposits, total withdrawals, current balance, and total number of transactions.
 
 ### 12. Automatic Data Storage
 Saves transaction records to a CSV file so that the data can be loaded again when the application restarts.
 
 ### 13. Input Validation
-Checks user inputs to prevent invalid transaction amounts and incorrect menu selections.
+Includes methods for validating transaction amounts, checking date formats, and handling certain invalid inputs. Additional validation can be implemented to prevent invalid menu selections and incorrect transaction entries.
 
 ### 14. File Handling
 Uses Java file-handling features to read and write transaction records and generate reports.
