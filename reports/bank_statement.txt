@@ -1,0 +1,24 @@
+PERSONAL BANK STATEMENT
+Period: 2026-10-01 to 2026-10-16
+
+ID: 1 | Date: 2026-10-15 | Type: Income | Amount: 20000.0 | Balance: 20000.0 | Description: Monthly Salary
+ID: 2 | Date: 2026-10-15 | Type: Deposit | Amount: 5000.0 | Balance: 25000.0 | Description: Cash Saving Deposit
+ID: 3 | Date: 2026-10-15 | Type: Expense | Amount: 1500.0 | Balance: 23500.0 | Description: Grocery Shopping
+ID: 4 | Date: 2026-10-15 | Type: Withdrawal | Amount: 2000.0 | Balance: 21500.0 | Description: ATM cash Withdrawl
+ID: 5 | Date: 2026-10-15 | Type: Expense | Amount: 800.0 | Balance: 20700.0 | Description: Electricity Bill
+ID: 6 | Date: 2026-10-15 | Type: Income | Amount: 3000.0 | Balance: 23700.0 | Description: Freelance Payment
+ID: 7 | Date: 2026-10-15 | Type: Expense | Amount: 500.0 | Balance: 23200.0 | Description: Mobile Recharge
+ID: 8 | Date: 2026-10-15 | Type: Deposit | Amount: 1500.0 | Balance: 24700.0 | Description: Additional Savings Deposit
+ID: 9 | Date: 2026-10-15 | Type: Expense | Amount: 1200.0 | Balance: 23500.0 | Description: Travel Expenses
+ID: 10 | Date: 2026-10-15 | Type: Withdrawal | Amount: 1000.0 | Balance: 22500.0 | Description: Cash for daily needs
+ID: 11 | Date: 2026-10-15 | Type: Income | Amount: 2000.0 | Balance: 24500.0 | Description: Tution Income
+ID: 12 | Date: 2026-10-15 | Type: Expense | Amount: 750.0 | Balance: 23750.0 | Description: Books & Stationery
+ID: 13 | Date: 2026-10-15 | Type: Deposit | Amount: 2500.0 | Balance: 26250.0 | Description: Cash Deposit
+ID: 14 | Date: 2026-10-15 | Type: Expense | Amount: 2500.0 | Balance: 23750.0 | Description: Cash Deposit
+ID: 15 | Date: 2026-10-15 | Type: Expense | Amount: 600.0 | Balance: 23150.0 | Description: Internet Bill
+ID: 16 | Date: 2026-10-15 | Type: Withdrawal | Amount: 1500.0 | Balance: 21650.0 | Description: Personal Cash Withdrawl
+
+Total credits: 34000.0
+Total debits: 12350.0
+Net movement: 21650.0
+Transaction count: 16
