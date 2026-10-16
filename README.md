@@ -41,8 +41,10 @@ PersonalBankLedger/
 │   └── PersonalBankLedger.java
 ├── docs/
 ├── data/
+│   └── transactions.csv
 ├── results/
 └── reports/
+    └──bank_statement.txt
 ```
 
 ## Execution Instructions
